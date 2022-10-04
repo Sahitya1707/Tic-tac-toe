@@ -387,8 +387,16 @@
     font-size: 0.7rem;
     margin-top: 1rem;
   }
-  .text-footer {
+  .footer {
     font-size: 0.5rem;
     letter-spacing: none;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+  }
+  .text-footer {
+    font-size: 0.3rem;
+    letter-spacing: 0.08rem;
   }
 }
